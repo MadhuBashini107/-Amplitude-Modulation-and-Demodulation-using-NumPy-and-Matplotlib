@@ -26,7 +26,9 @@ __Algorithm__:
 
  __Output__:
 
+<img width="1198" height="990" alt="image" src="https://github.com/user-attachments/assets/2e654c85-90f2-42ec-bc15-cbbfb72d41fe" />
 
  __Result__:
+ Thus, AM modulation and demodulation is observed and executed using python.
 
 
